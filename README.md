@@ -1,5 +1,5 @@
 # Ex.08 Design of Interactive Image Gallery
-## Date:
+## Date:09.12.2024
 
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
@@ -170,10 +170,13 @@ div.desc {
 
 </body>
 </html>
+
 ```
 
 ## OUTPUT:
-![Uploading Screenshot 2024-12-23 225032.png…]()
+![Screenshot 2024-12-23 225032](https://github.com/user-attachments/assets/36d02e28-f11e-4128-9611-9a2c26aa21f4)
+![Screenshot 2024-12-23 225044](https://github.com/user-attachments/assets/a8155ffc-2ac7-4234-a9cb-49be5d901c56)
+
 
 
 
