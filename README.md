@@ -171,6 +171,10 @@ div.desc {
 ```
 
 ## OUTPUT:
+![Screenshot 2024-12-25 111724](https://github.com/user-attachments/assets/c3a2050b-4d98-4cb0-be84-dce7731c0ebc)
+![Screenshot 2024-12-25 111737](https://github.com/user-attachments/assets/0f7f8826-26bd-43d8-ad96-8f2e2aa2140b)
+
+
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
